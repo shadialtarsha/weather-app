@@ -1,5 +1,5 @@
 # Weather NodeJS Command Prompt App
-Simple app for get weather information for geocode.
+Simple app to get weather forecast using geocode.
 
 # Resources
 Get a free API Key from [here](https://darksky.net/dev).
