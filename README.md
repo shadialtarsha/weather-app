@@ -1,4 +1,4 @@
-# Weather NodeJS Commandline App
+# Weather NodeJS Command Prompt App
 Simple app for get weather information for geocode.
 
 # Resources

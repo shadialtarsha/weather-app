@@ -1,5 +1,5 @@
 {
-  "name": "weather-nodejs-commandline-app",
+  "name": "weather-nodejs-prompt-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
