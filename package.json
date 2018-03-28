@@ -1,11 +1,8 @@
 {
-  "name": "weather-app",
+  "name": "weather-nodejs-commandline-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Shadi Al-tarsha",
   "license": "ISC",
   "dependencies": {
